@@ -1,0 +1,55 @@
+{
+  "title":"Você seria um Anakin ou Obi-Wan?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual caminho você escolheria?",
+      "options":[
+        {"id": 1, "name":"Impulsividade", "alias":"A"},
+        {"id": 2, "name":"Paciência", "alias":"B"},
+        {"id": 3, "name":"Imediatismo", "alias":"A"},
+        {"id": 4, "name":"Reflexão", "alias":"B"},
+        {"id": 5, "name":"Violência", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você abordaria um sith?",
+      "options":[
+        {"id": 1, "name":"Ameaçaria com sabre de luz", "alias":"A"},
+        {"id": 2, "name":"Sufocamento", "alias":"A"},
+        {"id": 3, "name":"Tentaria o diálogo", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual a sua maior preocupação ao enfretar um Sith?",
+      "options":[
+        {"id": 1, "name":"Tentar não iniciar uma luta, buscar diálogo", "alias":"B"},
+        {"id": 2, "name":"Eliminá-lo rapidamente", "alias":"A"},
+        {"id": 3, "name":"Não ouvir o inimigo, apenas lutar", "alias":"A"},
+        {"id": 4, "name":"Descobrir informações de seu mestre", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual cor que mais gosta?",
+      "options":[
+        {"id": 1, "name":"Vermelho", "alias":"A"},
+        {"id": 2, "name":"Azul", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual caminho prefere seguir ?",
+      "options":[
+        {"id": 1, "name":"O caminho da violência", "alias":"A"},
+        {"id": 2, "name":"O Caminho do diálogo", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria Anakin!",
+    "B": "Você muito provavelmente seria Obi-Wan!"
+  }
+}
